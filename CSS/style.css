@@ -1,0 +1,15 @@
+/* Declarar las constantes de colores y fuentes */
+:root{
+    /* fuentes */
+    --titulos: 'Lato', sans-serif;
+    --parrafos: 'Roboto', sans-serif;
+
+    /* colores*/
+    --encabezado:#fff;
+    --piepagina: #000; 
+    --enlace:#7c0808;
+    --enlacesobre: rgb(78, 3, 139);
+    --fondo: url('../imagen/')
+
+
+}
